@@ -1,0 +1,174 @@
+h1, .h1
+{
+   font-family: "PT Sans";
+   font-weight: bold;
+   font-size: 32px;
+   text-decoration: none;
+   color: #000000;
+   --color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline-block;
+}
+h2, .h2
+{
+   font-family: "PT Sans";
+   font-weight: bold;
+   font-size: 27px;
+   text-decoration: none;
+   color: #000000;
+   --color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline-block;
+}
+h3, .h3
+{
+   font-family: "PT Sans";
+   font-weight: bold;
+   font-size: 24px;
+   text-decoration: none;
+   color: #000000;
+   --color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline-block;
+}
+h4, .h4
+{
+   font-family: "PT Sans";
+   font-weight: bold;
+   font-size: 21px;
+   font-style: italic;
+   text-decoration: none;
+   color: #000000;
+   --color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline-block;
+}
+h5, .h5
+{
+   font-family: "PT Sans";
+   font-weight: bold;
+   font-size: 19px;
+   text-decoration: none;
+   color: #000000;
+   --color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline-block;
+}
+h6, .h6
+{
+   font-family: "PT Sans";
+   font-weight: bold;
+   font-size: 16px;
+   text-decoration: none;
+   color: #000000;
+   --color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline-block;
+}
+.CustomStyle
+{
+   font-family: "PT Sans";
+   font-weight: bold;
+   font-size: 16px;
+   text-decoration: none;
+   color: #2E74B5;
+   --color: #2E74B5;
+   background-color: transparent;
+}
+.HeaderRegularBlack
+{
+   font-family: "PT Sans";
+   font-weight: normal;
+   font-size: 29px;
+   font-style: normal;
+   text-align: left;
+   text-decoration: none;
+   color: #0B0C0D;
+   --color: #0B0C0D;
+   background-color: transparent;
+}
+.darktheme .HeaderRegularBlack
+{
+   color: #FFFFFF;
+   --color: #FFFFFF;
+}
+.HeaderRegularBlackCentered
+{
+   font-family: "PT Sans";
+   font-weight: normal;
+   font-size: 29px;
+   font-style: normal;
+   text-align: center;
+   text-decoration: none;
+   color: #0B0C0D;
+   --color: #0B0C0D;
+   background-color: transparent;
+}
+.darktheme .HeaderRegularBlackCentered
+{
+   color: #FFFFFF;
+   --color: #FFFFFF;
+}
+.TextRegularBlack
+{
+   font-family: "PT Sans";
+   font-weight: normal;
+   font-size: 16px;
+   font-style: normal;
+   text-align: left;
+   text-decoration: none;
+   color: #0B0C0D;
+   --color: #0B0C0D;
+   background-color: transparent;
+}
+.darktheme .TextRegularBlack
+{
+   color: #FFFFFF;
+   --color: #FFFFFF;
+}
+.HeaderRegularWhite
+{
+   font-family: "PT Sans";
+   font-weight: normal;
+   font-size: 29px;
+   font-style: normal;
+   text-align: left;
+   text-decoration: none;
+   color: #FFFFFF;
+   --color: #FFFFFF;
+   background-color: transparent;
+}
+.darktheme .HeaderRegularWhite
+{
+   color: #0B0C0D;
+   --color: #0B0C0D;
+}
+.TextRegularWhite
+{
+   font-family: "PT Sans";
+   font-weight: normal;
+   font-size: 16px;
+   font-style: normal;
+   text-align: left;
+   text-decoration: none;
+   color: #FFFFFF;
+   --color: #FFFFFF;
+   background-color: transparent;
+}
+.darktheme .TextRegularWhite
+{
+   color: #0B0C0D;
+   --color: #0B0C0D;
+}
